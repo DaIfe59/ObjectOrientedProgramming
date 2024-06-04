@@ -28,8 +28,8 @@ namespace EmployeeAdminPortal.Controllers
 
 
         [HttpGet]
-        [Route("{id:guid}")]
-        public IActionResult GetCarById(Guid id)
+        [Route("{id:int}")]
+        public IActionResult GetCarById(int id)
         {
             var car = dbContext.Cars.Find(id);
 
@@ -59,8 +59,8 @@ namespace EmployeeAdminPortal.Controllers
         }
 
         [HttpPut]
-        [Route("{id:guid}")]
-        public IActionResult UpdateCar(Guid id, UpdateCarDto updateCarDto)
+        [Route("{id:int}")]
+        public IActionResult UpdateCar(int id, UpdateCarDto updateCarDto)
         {
             var car = dbContext.Cars.Find(id);
             if (car == null)
@@ -78,8 +78,8 @@ namespace EmployeeAdminPortal.Controllers
 
 
         [HttpDelete]
-        [Route("{id:guid}")]
-        public IActionResult DeleteCar(Guid id)
+        [Route("{id:int}")]
+        public IActionResult DeleteCar(int id)
         {
             var car=dbContext.Cars.Find(id);
             if (car == null)

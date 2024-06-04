@@ -1,6 +1,6 @@
 ﻿using EmployeeAdminPortal.Data;
-using EmployeeAdminPortal.Models;
 using EmployeeAdminPortal.Models.Entities;
+using EmployeeAdminPortal.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,31 +10,30 @@ namespace EmployeeAdminPortal.Controllers
     [ApiController]
     public class BuyerController : ControllerBase
     {
-
         private readonly ApplicationDbContext dbContext;
+
         public BuyerController(ApplicationDbContext dbContext)
         {
             this.dbContext = dbContext;
         }
 
-
         [HttpGet]
-        public IActionResult GetAllBuyers()
+        public IActionResult GetAllEmployees()
         {
             return Ok(dbContext.Buyers.ToList());
         }
 
-
         [HttpGet]
-        [Route("{id:guid}")]
-        public IActionResult GetAllBuyersById(Guid id)
+        [Route("{id:int}")]
+        public IActionResult GetBuyerById(int id)
         {
-            var buyer = dbContext.Buyers.Find(id);
-            if (buyer == null)
+            var employee = dbContext.Buyers.Find(id);
+
+            if (employee == null)
             {
                 return NotFound();
             }
-            return Ok(buyer);
+            return Ok(employee);
         }
 
 
@@ -43,10 +42,10 @@ namespace EmployeeAdminPortal.Controllers
         {
             var buyerEntity = new Buyer()
             {
-                Nameb = addBuyerDto.Nameb,
-                Surname = addBuyerDto.Surname,
-                Emailb = addBuyerDto.Emailb,
+                Name = addBuyerDto.Name,
+                Summa = addBuyerDto.Summa,
             };
+
 
             dbContext.Buyers.Add(buyerEntity);
             dbContext.SaveChanges();
@@ -56,36 +55,35 @@ namespace EmployeeAdminPortal.Controllers
 
 
         [HttpPut]
-        [Route("{id:guid")]
-        public IActionResult UpdateBuyer(Guid id,UpdateBuyerDto updateBuyerDto)
+        [Route("{id:int}")]
+        public IActionResult UpdateBuyer(int id, UpdateBuyerDto updateBuyerDto)
         {
             var buyer = dbContext.Buyers.Find(id);
             if (buyer == null)
             {
                 return NotFound();
             }
-            buyer.Nameb= updateBuyerDto.Nameb;
-            buyer.Surname= updateBuyerDto.Surname;
-            buyer.Emailb= updateBuyerDto.Emailb;
+            buyer.Name = updateBuyerDto.Name;
+            buyer.Summa = updateBuyerDto.Summa;
 
             dbContext.SaveChanges();
-            
+
             return Ok(buyer);
         }
 
-
         [HttpDelete]
-        [Route("{id:guid")]
-        public IActionResult DeleteBuyer(Guid id)
+        [Route("{id:int}")]
+        public IActionResult DeleteBuyer(int id)
         {
             var buyer = dbContext.Buyers.Find(id);
-            if(buyer == null)
+            if (buyer == null)
             {
                 return NotFound();
             }
             dbContext.Buyers.Remove(buyer);
             dbContext.SaveChanges();
-            return Ok(buyer);
+
+            return Ok();
         }
     }
 }

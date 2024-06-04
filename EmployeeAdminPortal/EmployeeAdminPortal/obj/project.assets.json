@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Admin\\Документы\\ВУЗ\\ООП\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+      "projectUniqueName": "D:\\Admin\\Документы\\ВУЗ\\ООП\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
       "projectName": "EmployeeAdminPortal",
-      "projectPath": "D:\\Admin\\Документы\\ВУЗ\\ООП\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+      "projectPath": "D:\\Admin\\Документы\\ВУЗ\\ООП\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
       "packagesPath": "C:\\Users\\Даниил\\.nuget\\packages\\",
-      "outputPath": "D:\\Admin\\Документы\\ВУЗ\\ООП\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
+      "outputPath": "D:\\Admin\\Документы\\ВУЗ\\ООП\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

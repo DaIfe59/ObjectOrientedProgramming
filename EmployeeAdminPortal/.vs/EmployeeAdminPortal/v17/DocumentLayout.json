@@ -1,26 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\",
+  "WorkspaceRootPath": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\employeeadminportal\\employeeadminportal\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\models\\entities\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\employeeadminportal\\employeeadminportal\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\employeeadminportal\\employeeadminportal\\models\\updatebuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\models\\updatebuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\updatebuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\employeeadminportal\\employeeadminportal\\models\\addbuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\models\\addbuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\addbuyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\employeeadminportal\\employeeadminportal\\models\\entities\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\models\\addcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\addcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20240604082156_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeAdminPortal\\Migrations\\20240604082156_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\models\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|d:\\admin\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437\\\u043E\u043E\u043F\\objectorientedprogramming\\employeeadminportal\\employeeadminportal\\migrations\\20240604082328_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00774AF7-93BF-49DA-A311-D4077DF35505}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\migrations\\20240604082328_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,68 +74,174 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240604082156_initial.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20240604082156_initial.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Migrations\\20240604082156_initial.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20240604082156_initial.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Migrations\\20240604082156_initial.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:21:56.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:46:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UpdateBuyerDto.cs",
-              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateBuyerDto.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateBuyerDto.cs",
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\UpdateBuyerDto.cs",
-              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateBuyerDto.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateBuyerDto.cs",
               "RelativeToolTip": "EmployeeAdminPortal\\Models\\UpdateBuyerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T11:53:48.406Z",
+              "WhenOpened": "2024-06-04T06:29:35.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Buyer.cs",
-              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
-              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
-              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
-              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T11:44:06.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T07:55:05.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCarDto.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddCarDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddCarDto.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddCarDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\AddCarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:18:04.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AddBuyerDto.cs",
-              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddBuyerDto.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddBuyerDto.cs",
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddBuyerDto.cs",
-              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddBuyerDto.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddBuyerDto.cs",
               "RelativeToolTip": "EmployeeAdminPortal\\Models\\AddBuyerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T11:44:04.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:29:18.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:03:09.281Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BuyerController.cs",
-              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\BuyerController.cs",
-              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\BuyerController.cs",
-              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\BuyerController.cs",
-              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\BuyerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAvAAAA",
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Buyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T11:33:55.583Z",
+              "WhenOpened": "2024-06-04T06:27:46.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\CarsController.cs",
-              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "20240604082328_initial.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20240604082328_initial.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Migrations\\20240604082328_initial.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20240604082328_initial.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Migrations\\20240604082328_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T11:04:50.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T08:23:28.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Car.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Car.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:17:49.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\CarsController.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:04:50.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\BuyerController.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\BuyerController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:32:18.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Program.cs",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:07:37.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\appsettings.json",
+              "ToolTip": "D:\\Admin\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\\u041E\u041E\u041F\\ObjectOrientedProgramming\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T07:24:48.986Z"
             }
           ]
         }

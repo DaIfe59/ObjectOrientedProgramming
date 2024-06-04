@@ -1,8 +1,11 @@
-﻿namespace EmployeeAdminPortal.Models.Entities
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace EmployeeAdminPortal.Models.Entities
 {
     public class Employee
     {
-        public Guid Id { get; set; }
+        [ForeignKey("Buyer")]
+        public int Id { get; set; }
         public required string Name { get; set; }
         public required string Email { get; set; }
         public string? Phone { get; set; }
